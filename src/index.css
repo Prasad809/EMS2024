@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#gap{
+    margin-bottom: 50px;
+}
+.center{
+    text-align: center;
+    margin-top: 120px;
+}
+.form{
+    margin-left:500px ;
+}
+.marqee{
+    margin-top: 20px;
+    color:#009688;
+}
+.list{
+    margin-top: 5px;
+    text-decoration: none;
+    height:50px;
+}
+.sideHead{
+    color: chocolate;
+    font-size:bold;
+}
+.mainHead{
+    color: crimson;
+    font-size:bold;
+}
