@@ -14,7 +14,7 @@ function SignInPage() {
             .then(res => {
                 console.log(res.data)
                 if (res.data.login === true) {
-                    navgate('/dashboard')
+                    navgate('/dashboard/dashPage')
                 } else if (res.data.login === false) {
                     alert("Your not an ADMIN")
                 }
